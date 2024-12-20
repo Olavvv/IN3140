@@ -1,0 +1,1 @@
+I find the concept of dynamics abit hard to understand. I didnt really find anything to be "easy" so i cant comment on that. I think i could learn the sympy package abit more, its a powerful tool to learn and use.

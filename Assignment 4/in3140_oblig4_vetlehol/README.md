@@ -1,0 +1,1 @@
+I found this assignment very hard, i think i have the concepts kind of down, but the programming and implementing part i found confusing.
